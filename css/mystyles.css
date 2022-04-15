@@ -1,0 +1,57 @@
+.bolderandnormal {
+    font-weight: bold;
+    font-style: normal;}
+
+.underline{
+    text-decoration: underline;}
+
+.italics{
+    font-style: italic;}
+
+.happy {
+    font-style:normal
+}
+
+body {
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+                font-size: 14px;
+                background-color: rgb(189, 238, 255);
+                color:rgb(122, 14, 81)}
+                    h2,h4 {color:darkslateblue}
+                    p {color:darkslateblue}
+
+   
+                    
+            li {
+                font-size: 20px;
+                font-style: italic;
+                font-weight: normal;
+                
+            }
+
+            a{
+                color:rgba(180, 3100, 57, 0.897);
+                text-decoration: none;
+            }
+            a:hover{
+                text-decoration: underline;
+                font-weight:bold;
+                font-size: 23px;
+            }
+            a:visited{color:}
+
+.box1{
+    border: solid 1px purple;
+   
+}  
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    right: 5px;
+    left: 5px;
+    font-size: 9px;
+    color: #999999;
+    text-align: center;
+    position:fixed;
+}
